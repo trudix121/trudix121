@@ -6,7 +6,7 @@
 <hr>
 
 Hi, Im Alexandru aka Trudix a romanian programmer. my story started in 2021 when I started with some basic html, css, in 2022 I started programming again, learning python which is my main programming language
-my story started in 2021 when I started with some basic html, css, in 2022 I started programming again, learning python which is my main programming language
+
 
 
 
