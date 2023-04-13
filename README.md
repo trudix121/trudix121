@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**trudix121/trudix121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! 👋
 
-Here are some ideas to get you started:
+ <!-- *(since 20th October 2020)* -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Hi, Im Alexandru aka Trudix a romanian programmer. my story started in 2021 when I started with some basic html, css, in 2022 I started programming again, learning python which is my main programming language
+my story started in 2021 when I started with some basic html, css, in 2022 I started programming again, learning python which is my main programming language
+
+
+
+### Skills
+
+#### Proficient (commonly used)
+
+The things I'm best at, ordered by time.
+
+  [![My Skills](https://skillicons.dev/icons?i=discord,py,vscode,linux,github,bots,atom)](https://skillicons.dev)
+
+#### Confident (less commonly used)
+
+Other things I'm good (ish) at, ordered by time.
+
+  [![My Skills](https://skillicons.dev/icons?i=visualstudio,react,pytorch,powershell,mysql,matlab,js,java,idea,git,figma,lua)](https://skillicons.dev)
+
+
+<details>
+  <summary>Things I have tried but don't use frequently</summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=discord,py,vscode,lua,linux,github,figma,bots,atom)](https://skillicons.dev)
+
+</details>
+
+#### Soon™️
+
+[![My Skills](https://skillicons.dev/icons?i=ts,,sqlite,nodejs,mongodb,js,flask,django)](https://skillicons.dev)
+
