@@ -16,13 +16,13 @@ Hi, Im Alexandru aka Trudix a romanian programmer. my story started in 2021 when
 
 The things I'm best at, ordered by time.
 
-  [![My Skills](https://skillicons.dev/icons?i=discord,py,vscode,linux,github,bots,atom)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord,py,js, vscode,linux,github,bots,atom)](https://skillicons.dev)
 
 #### Confident (less commonly used)
 
 Other things I'm good (ish) at, ordered by time.
 
-  [![My Skills](https://skillicons.dev/icons?i=visualstudio,react,pytorch,powershell,mysql,matlab,js,java,idea,git,figma,lua)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=visualstudio,react,pytorch,powershell,mysql,matlab,java,idea,git,figma,lua)](https://skillicons.dev)
 
 
 <details>
