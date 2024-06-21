@@ -31,3 +31,10 @@ Other things I'm good (ish) at, ordered by time.
 
 [![My Skills](https://skillicons.dev/icons?i=sqlite,flask,figma,react,pytorch,java)](https://skillicons.dev)
 
+
+
+
+
+
+<a href="https://app.daily.dev/trudx"><img src="https://api.daily.dev/devcards/v2/ctkJ5bKq8tq89rlb7xxYk.png?r=v7a&type=wide" width="652" alt="Trudix's Dev Card"/></a>
+
